@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Teste
+          Teste AWS
         </a>
       </header>
     </div>
